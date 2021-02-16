@@ -3,7 +3,7 @@
 OrderOperator is a project that has many endpoints to handle some customer-order operations.
 The endpoints can be examined via swagger.
 
-Url: http://<configured-host-name>:8080/swagger-ui/
+Url: _http://<configured-host-name>:8080/swagger-ui/_
 For local environment you can use: http://localhost:8080/swagger-ui/
 
 ### Requirements

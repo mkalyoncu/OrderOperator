@@ -9,7 +9,7 @@ For local environment you can use: http://localhost:8080/swagger-ui/
 ### Requirements
 * JDK8
 * Maven
-* MySQL as a main data source
+* MySQL database
 * Elastic database
   
 You need to have two tables customer and order. Table's schema can be examined below.

@@ -15,18 +15,18 @@ For local environment you can use: http://localhost:8080/swagger-ui/
 You need to have two tables customer and order. Table's schema can be examined below.
 * customer table  
     
-    `#,Field,Type,Null,Key,Default,Extra  
-    1,id,int,NO,PRI,,auto_increment  
-    2,name,varchar(250),NO,"",,""  
-    3,age,tinyint,NO,"",,""  
+    `#,Field,Type,Null,Key,Default,Extra`  
+    `id,int,NO,PRI,,auto_increment`  
+    `name,varchar(250),NO,"",,""`  
+    `age,tinyint,NO,"",,""`  
     `
 
 * order table  
-    `#,Field,Type,Null,Key,Default,Extra
-    1,id,int,NO,PRI,,auto_increment
-    2,name,varchar(250),NO,"",,""
-    3,age,tinyint,NO,"",,""
-    `
+    `#,Field,Type,Null,Key,Default,Extra`  
+    `id,int,NO,PRI,,auto_increment`  
+    `name,varchar(250),NO,"",,""`  
+    `age,tinyint,NO,"",,""`  
+    
   
 ### Run
 
